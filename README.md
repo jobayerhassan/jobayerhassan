@@ -1,6 +1,6 @@
 About Me
 
-🎓 CSE Undergrad at Daffodil International University | Building projects in C++, Java & Python | Open to collabs
+Computer Science undergraduate with a strong foundation in C, C++, and Java. Currently building ExamGuard-AI, an NLP-based subjective exam evaluator, and expanding into Python and web development.
 
 Interested in AI/ML, algorithms, and building practical software from real problems.
 
