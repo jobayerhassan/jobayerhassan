@@ -26,15 +26,6 @@ I'm interested in how solid fundamentals become useful software: a graph algorit
 - **Practicing:** Data structures, algorithms and object-oriented design.
 - **Open to:** Student collaborations and practical software projects.
 
-## My toolkit
-
-| Area | What I'm working with |
-| :--- | :--- |
-| Core languages | **C · C++ · Java** |
-| Expanding into | **Python · JavaScript · React** |
-| Foundations | Object-oriented programming · Data structures · Graph algorithms |
-| Interests | Natural language processing · AI/ML · Practical software design |
-
 ## Selected projects
 
 ### 01 &nbsp; [ExamGuard AI](https://github.com/jobayerhassan/ExamGuard-AI)
@@ -64,8 +55,23 @@ A university OOP project for a smart super shop. The planned experience connects
 
 [Explore the project →](https://github.com/jobayerhassan/Smart-Store#readme)
 
-## GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jobayerhassan&show_icons=true&theme=default&hide_border=true&hide_title=true" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobayerhassan&layout=compact&theme=default&hide_border=true&hide_title=true" width="48%" /> </p> <br>
+## My toolkit
 
-## Connect
-<p> <a href="https://www.linkedin.com/in/jobayer-hossen-joy-346b18365"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:jobayerhassan788@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p>
+| Area | What I'm working with |
+| :--- | :--- |
+| Core languages | **C · C++ · Java** |
+| Expanding into | **Python · JavaScript · React** |
+| Foundations | Object-oriented programming · Data structures · Graph algorithms |
+| Interests | Natural language processing · AI/ML · Practical software design |
+
+## Let's build something useful
+
+I'm open to collaborating on student projects in Java, C/C++ or Python, especially where there's a clear problem to solve and something new to learn.
+
+**[Connect on LinkedIn](https://www.linkedin.com/in/jobayer-hossen-joy-346b18365)** &nbsp; · &nbsp; **[Send an email](mailto:jobayerhassan788@gmail.com)**
+
+---
+
+<p align="center">
+  <sub>Learning by building. Improving with every iteration.</sub>
+</p>
