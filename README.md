@@ -29,13 +29,34 @@ I'm interested in how solid fundamentals become useful software: a graph algorit
 ## Tech Stack
 <p> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> </p> <br>
 
-## Featured Projects
+## Selected projects
 
-ExamGuard-AI — AI-based subjective exam answer evaluator using NLP, rubric scoring, and automated feedback generation (Python)
+### 01 &nbsp; [ExamGuard AI](https://github.com/jobayerhassan/ExamGuard-AI)
 
-DeliveryRoutePlanner — Delivery management system using graph algorithms (BFS, Dijkstra) for route optimization (C)
+**Answer evaluation with explainable feedback**<br>
+<sub>PYTHON · STREAMLIT · NLP EXPLORATION</sub>
 
-<br>
+A learning prototype exploring subjective-answer evaluation through text similarity, keywords and rubric-based scoring. The project focuses on showing feedback alongside a score.
+
+[Explore the project →](https://github.com/jobayerhassan/ExamGuard-AI#readme)
+
+### 02 &nbsp; [Delivery Route Planner](https://github.com/jobayerhassan/DeliveryRoutePlanner)
+
+**Graph algorithms applied to delivery planning**<br>
+<sub>C · BFS · DIJKSTRA · TEAM PROJECT</sub>
+
+A console-based delivery management project covering customers, drivers and locations, with graph-based route planning and file persistence. My contribution focuses on **delivery and driver management**.
+
+[Explore the project →](https://github.com/jobayerhassan/DeliveryRoutePlanner#readme)
+
+### 03 &nbsp; [Smart Store](https://github.com/jobayerhassan/Smart-Store)
+
+**A smarter approach to everyday groceries**<br>
+<sub>JAVA · OBJECT-ORIENTED PROGRAMMING · IN DEVELOPMENT</sub>
+
+A university OOP project for a smart super shop. The planned experience connects grocery shopping with recipe ideas, pantry-aware planning and budget-conscious choices.
+
+[Explore the project →](https://github.com/jobayerhassan/Smart-Store#readme)
 
 ## GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jobayerhassan&show_icons=true&theme=default&hide_border=true&hide_title=true" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobayerhassan&layout=compact&theme=default&hide_border=true&hide_title=true" width="48%" /> </p> <br>
