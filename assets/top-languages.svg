@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="314" viewBox="0 0 850 314" role="img" aria-labelledby="title description">
+  <title id="title">Languages in my repositories</title>
+  <desc id="description">Top languages by code bytes across 5 public, original, non-archived repositories, excluding the profile repository. C: 73.6 percent; Python: 24.6 percent; Java: 1.8 percent. Language share is not a measure of proficiency. Updated 2026-09-26 21:37:00 UTC.</desc>
+  <rect x=".5" y=".5" width="849" height="313" rx="18" fill="#0d1117" stroke="#30363d"/>
+  <path d="M25 1H260" stroke="#38bdf8" stroke-width="2"/>
+  <path d="M590 1H825" stroke="#a78bfa" stroke-width="2"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="30" y="37" fill="#a78bfa" font-size="11" font-weight="700" letter-spacing="2.4">CODE / LANGUAGE MIX</text>
+    <text x="30" y="73" fill="#e6edf3" font-size="25" font-weight="700">Languages in my repositories.</text>
+
+    <circle cx="35" cy="112" r="4" fill="#38bdf8"/>
+    <text x="48" y="117" fill="#e6edf3" font-size="15" font-weight="600">C</text>
+    <rect x="230" y="104" width="505" height="10" rx="5" fill="#21262d"/>
+    <rect x="230" y="104" width="371.85" height="10" rx="5" fill="#38bdf8"/>
+    <text x="820" y="117" text-anchor="end" fill="#38bdf8" font-size="14" font-weight="600">73.6%</text>
+    <circle cx="35" cy="155" r="4" fill="#a78bfa"/>
+    <text x="48" y="160" fill="#e6edf3" font-size="15" font-weight="600">Python</text>
+    <rect x="230" y="147" width="505" height="10" rx="5" fill="#21262d"/>
+    <rect x="230" y="147" width="124.10" height="10" rx="5" fill="#a78bfa"/>
+    <text x="820" y="160" text-anchor="end" fill="#a78bfa" font-size="14" font-weight="600">24.6%</text>
+    <circle cx="35" cy="198" r="4" fill="#34d399"/>
+    <text x="48" y="203" fill="#e6edf3" font-size="15" font-weight="600">Java</text>
+    <rect x="230" y="190" width="505" height="10" rx="5" fill="#21262d"/>
+    <rect x="230" y="190" width="9.05" height="10" rx="5" fill="#34d399"/>
+    <text x="820" y="203" text-anchor="end" fill="#34d399" font-size="14" font-weight="600">1.8%</text>
+    <path d="M30 231H820" stroke="#21262d"/>
+    <text x="30" y="253" fill="#8b949e" font-size="12">Top 3 by code-byte share · 5 eligible repositories · Not a proficiency score</text>
+    <text x="30" y="291" fill="#8b949e" font-size="11">Excludes forks, archives and this profile</text>
+    <text x="820" y="291" text-anchor="end" fill="#8b949e" font-size="11">Updated 2026-09-26 21:37:00 UTC</text></g>
+</svg>
