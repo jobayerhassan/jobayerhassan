@@ -1,63 +1,115 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" fill="none" role="img" aria-labelledby="profile-title profile-description">
-  <title id="profile-title">Jobayer Hossen — GitHub profile</title>
-  <desc id="profile-description">Building software. Learning deeply. CSE undergraduate in Dhaka, Bangladesh. A dark navy banner with a teal architectural network illustration.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="540" viewBox="0 0 1600 540" fill="none" role="img" aria-labelledby="profile-title profile-description">
+  <title id="profile-title">Jobayer Hossen — Software, curiosity, and possibility</title>
+  <desc id="profile-description">Jobayer Hossen. CSE undergraduate and software builder in Dhaka, Bangladesh. C, C++, and Java. Exploring Python and AI. Electric cyan and lilac orbital artwork surrounds a luminous code symbol.</desc>
   <defs>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" stroke="#243246" stroke-opacity=".42"/>
-    </pattern>
-    <clipPath id="canvas">
-      <rect width="1280" height="400" rx="28"/>
-    </clipPath>
-    <linearGradient id="line" x1="842" y1="0" x2="842" y2="400" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#25354A" stop-opacity="0"/>
-      <stop offset=".5" stop-color="#25354A"/>
-      <stop offset="1" stop-color="#25354A" stop-opacity="0"/>
+    <clipPath id="canvas"><rect width="1600" height="540" rx="28"/></clipPath>
+    <linearGradient id="base" x1="0" y1="0" x2="1540" y2="600" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#060B15"/><stop offset=".55" stop-color="#081221"/><stop offset="1" stop-color="#11112B"/>
     </linearGradient>
+    <radialGradient id="cyan-haze"><stop stop-color="#0796D5" stop-opacity=".35"/><stop offset="1" stop-color="#0796D5" stop-opacity="0"/></radialGradient>
+    <radialGradient id="lilac-haze"><stop stop-color="#8656E9" stop-opacity=".3"/><stop offset="1" stop-color="#8656E9" stop-opacity="0"/></radialGradient>
+    <radialGradient id="core-haze"><stop stop-color="#24B9FA" stop-opacity=".22"/><stop offset=".54" stop-color="#2467AE" stop-opacity=".09"/><stop offset="1" stop-color="#13394E" stop-opacity="0"/></radialGradient>
+    <linearGradient id="name" x1="97" y1="213" x2="657" y2="324" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8BE8FF"/><stop offset=".5" stop-color="#38BDF8"/><stop offset="1" stop-color="#AAABFF"/>
+    </linearGradient>
+    <linearGradient id="orbit" x1="897" y1="91" x2="1458" y2="441" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8" stop-opacity=".12"/><stop offset=".3" stop-color="#6BDFFF"/><stop offset=".63" stop-color="#797FFE"/><stop offset=".84" stop-color="#C4ADFF"/><stop offset="1" stop-color="#A78BFA" stop-opacity=".2"/>
+    </linearGradient>
+    <linearGradient id="flow" x1="270" y1="485" x2="1596" y2="23" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8" stop-opacity="0"/><stop offset=".48" stop-color="#38BDF8" stop-opacity=".45"/><stop offset=".75" stop-color="#69C7FF"/><stop offset="1" stop-color="#A78BFA" stop-opacity=".2"/>
+    </linearGradient>
+    <linearGradient id="divider" x1="96" y1="424" x2="755" y2="424" gradientUnits="userSpaceOnUse"><stop stop-color="#38BDF8" stop-opacity=".55"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/></linearGradient>
+    <linearGradient id="frame" x1="0" y1="0" x2="1600" y2="540" gradientUnits="userSpaceOnUse"><stop stop-color="#33627E"/><stop offset=".48" stop-color="#1C293D"/><stop offset="1" stop-color="#675485"/></linearGradient>
+    <filter id="haze" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="28"/></filter>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5"/></filter>
+    <pattern id="dots" width="30" height="30" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".8" fill="#88A6C7" fill-opacity=".13"/></pattern>
+    <style>
+      .aurora { animation: aurora-drift 14s ease-in-out infinite alternate; }
+      .orbital { transform-origin: 1194px 273px; animation: orbital-drift 20s ease-in-out infinite alternate; }
+      .signal { animation: signal-breathe 4s ease-in-out infinite; }
+      .star { animation: star-shine 5s ease-in-out infinite alternate; }
+      .star-late { animation-delay: -2.5s; }
+      @keyframes aurora-drift { from { transform: translate(-12px, 4px); opacity: .7; } to { transform: translate(15px, -10px); opacity: 1; } }
+      @keyframes orbital-drift { from { transform: rotate(-4deg); } to { transform: rotate(5deg); } }
+      @keyframes signal-breathe { 0%, 100% { opacity: .4; } 50% { opacity: 1; } }
+      @keyframes star-shine { from { opacity: .35; } to { opacity: .95; } }
+      @media (prefers-reduced-motion: reduce) { .aurora, .orbital, .signal, .star { animation: none; } }
+    </style>
   </defs>
   <g clip-path="url(#canvas)">
-    <rect width="1280" height="400" fill="#0B1220"/>
-    <rect x="842" width="438" height="400" fill="#0E1728"/>
-    <rect x="842" width="438" height="400" fill="url(#grid)"/>
-    <path d="M842 0V400" stroke="url(#line)"/>
-    <path d="M64 100H110" stroke="#5EEAD4" stroke-width="3" stroke-linecap="round"/>
-
-    <g font-family="Segoe UI, Arial, sans-serif">
-      <text x="64" y="65" fill="#92A4BD" font-size="15" font-weight="600" letter-spacing="3">JOBAYERHASSAN / GITHUB</text>
-      <text x="60" y="178" fill="#F1F5F9" font-size="66" font-weight="700" letter-spacing="-2.3">Jobayer Hossen</text>
-      <text x="64" y="230" fill="#B9C7D9" font-size="28" font-weight="400" letter-spacing="-.3">Building software. Learning deeply.</text>
-
-      <rect x="64" y="301" width="225" height="37" rx="8" fill="#102A2C" stroke="#1D4947"/>
-      <circle cx="82" cy="319.5" r="3" fill="#5EEAD4"/>
-      <text x="96" y="324" fill="#8DEBDC" font-size="12" font-weight="600" letter-spacing="1.4">CSE UNDERGRADUATE</text>
-      <g stroke="#8296B0" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
-        <path d="M325 310.5a6 6 0 0 0-6 6c0 4.4 6 10 6 10s6-5.6 6-10a6 6 0 0 0-6-6Z"/>
-        <circle cx="325" cy="316.5" r="1.8"/>
+    <rect width="1600" height="540" fill="url(#base)"/>
+    <rect width="1600" height="540" fill="url(#dots)"/>
+    <!-- Wide atmospheric light keeps the composition alive without obscuring the name. -->
+    <g class="aurora">
+      <ellipse cx="1260" cy="63" rx="528" ry="290" fill="url(#cyan-haze)"/>
+      <ellipse cx="1370" cy="495" rx="460" ry="270" fill="url(#lilac-haze)"/>
+      <path d="M586 576C800 367 1034 466 1191 306S1387 96 1664 99" stroke="#168FE3" stroke-opacity=".15" stroke-width="47" filter="url(#haze)"/>
+      <path d="M660 603C870 371 1065 484 1220 306S1437 122 1666 180" stroke="#9B7DF2" stroke-opacity=".15" stroke-width="43" filter="url(#haze)"/>
+    </g>
+    <g stroke="url(#flow)" stroke-width="1" opacity=".47">
+      <path d="M375 583C653 381 854 596 1118 320S1433 86 1665 120"/>
+      <path d="M400 588C669 378 877 582 1133 326S1429 104 1665 137"/>
+      <path d="M425 593C685 375 900 568 1148 332S1425 122 1665 154"/>
+      <path d="M450 598C701 372 923 554 1163 338S1421 140 1665 171"/>
+      <path d="M475 603C717 369 946 540 1178 344S1417 158 1665 188"/>
+      <path d="M500 608C733 366 969 526 1193 350S1413 176 1665 205"/>
+      <path d="M525 613C749 363 992 512 1208 356S1409 194 1665 222"/>
+      <path d="M550 618C765 360 1015 498 1223 362S1405 212 1665 239"/>
+      <path d="M575 623C781 357 1038 484 1238 368S1401 230 1665 256"/>
+    </g>
+    <!-- Dim coordinate marks and starlight give the orbital artwork scale. -->
+    <g stroke="#4B7B9D" stroke-width="1" opacity=".45">
+      <path d="M876 125h14m-7-7v14M1455 428h14m-7-7v14M1512 231h14m-7-7v14M947 463h14m-7-7v14"/>
+      <path d="M95 33V20h38M1505 33V20h-38M95 507v13h38M1505 507v13h-38"/>
+    </g>
+    <g fill="#A5DEFF">
+      <circle class="star" cx="985" cy="73" r="2"/><circle class="star star-late" cx="1468" cy="90" r="2"/>
+      <circle class="star star-late" cx="866" cy="355" r="2"/><circle class="star" cx="1406" cy="466" r="1.8"/>
+      <circle cx="1032" cy="466" r="1"/><circle cx="1320" cy="51" r="1"/><circle cx="1518" cy="350" r="1.3"/>
+    </g>
+    <!-- Orbital geometry: a luminous wireframe sphere, drawn entirely in SVG. -->
+    <ellipse cx="1194" cy="273" rx="279" ry="254" fill="url(#core-haze)"/>
+    <g class="orbital">
+      <g stroke="url(#orbit)" stroke-width="1" opacity=".45">
+        <ellipse cx="1194" cy="273" rx="219" ry="188" transform="rotate(-27 1194 273)"/>
+        <ellipse cx="1194" cy="273" rx="219" ry="155" transform="rotate(-27 1194 273)"/>
+        <ellipse cx="1194" cy="273" rx="219" ry="112" transform="rotate(-27 1194 273)"/>
+        <ellipse cx="1194" cy="273" rx="219" ry="63" transform="rotate(-27 1194 273)"/>
+        <ellipse cx="1194" cy="273" rx="219" ry="24" transform="rotate(-27 1194 273)"/>
+        <ellipse cx="1194" cy="273" rx="173" ry="202" transform="rotate(-27 1194 273)"/>
+        <ellipse cx="1194" cy="273" rx="117" ry="202" transform="rotate(-27 1194 273)"/>
+        <ellipse cx="1194" cy="273" rx="57" ry="202" transform="rotate(-27 1194 273)"/>
       </g>
-      <text x="343" y="324" fill="#92A4BD" font-size="12" font-weight="600" letter-spacing="1.6">DHAKA, BANGLADESH</text>
+      <ellipse cx="1194" cy="273" rx="219" ry="202" transform="rotate(-27 1194 273)" stroke="url(#orbit)" stroke-width="1.3" opacity=".8"/>
+      <ellipse cx="1194" cy="273" rx="305" ry="82" transform="rotate(-31 1194 273)" stroke="url(#orbit)" stroke-width="9" opacity=".4" filter="url(#glow)"/>
+      <ellipse cx="1194" cy="273" rx="305" ry="82" transform="rotate(-31 1194 273)" stroke="url(#orbit)" stroke-width="2.2"/>
+      <ellipse cx="1194" cy="273" rx="274" ry="114" transform="rotate(37 1194 273)" stroke="url(#orbit)" stroke-width="1" stroke-dasharray="4 9" opacity=".55"/>
+      <circle cx="1442" cy="125" r="14" fill="#38BDF8" opacity=".45" filter="url(#glow)"/>
+      <circle cx="1442" cy="125" r="4.5" fill="#D0F6FF"/>
+      <circle cx="958" cy="432" r="4" fill="#BBA3FF"/>
     </g>
-
-    <!-- A quiet, ordered network around a single code module. -->
+    <!-- The code glyph remains stationary while its surrounding orbit drifts. -->
+    <circle cx="1194" cy="273" r="92" fill="#091425" fill-opacity=".87"/>
+    <circle cx="1194" cy="273" r="92" stroke="#4DACD1" stroke-opacity=".15"/>
     <g stroke-linecap="round" stroke-linejoin="round">
-      <rect x="913" y="67" width="282" height="266" rx="32" stroke="#263750" stroke-dasharray="3 9"/>
-      <path d="M960 99H1030Q1046 99 1046 115V139M1170 128V188Q1170 200 1158 200H1128M1106 301H1066Q1050 301 1050 285V260M933 272V214Q933 200 947 200H974" stroke="#3B526B" stroke-width="2"/>
-      <path d="M960 99H991M1170 145V167M1092 301H1078M933 250V233" stroke="#5EEAD4" stroke-width="2"/>
-
-      <rect x="924" y="81" width="36" height="36" rx="10" fill="#142D32" stroke="#37615E"/>
-      <path d="M935 99H949M942 92V106" stroke="#5EEAD4" stroke-width="2"/>
-      <rect x="1152" y="92" width="36" height="36" rx="10" fill="#1E2542" stroke="#4A5179"/>
-      <rect x="1164" y="104" width="12" height="12" rx="2" stroke="#A5B4FC" stroke-width="1.8"/>
-      <rect x="1106" y="283" width="36" height="36" rx="10" fill="#142D32" stroke="#37615E"/>
-      <path d="m1117 301 5 5 9-10" stroke="#5EEAD4" stroke-width="2"/>
-      <rect x="915" y="272" width="36" height="36" rx="10" fill="#152238" stroke="#354962"/>
-      <path d="M926 286H940M926 294H936" stroke="#9CB0C8" stroke-width="1.8"/>
-
-      <rect x="974" y="139" width="154" height="122" rx="22" fill="#0B1220" stroke="#38526A" stroke-width="1.5"/>
-      <path d="M998 161H1018" stroke="#5EEAD4" stroke-width="2"/>
-      <circle cx="1106" cy="161" r="2.5" fill="#5EEAD4"/>
-      <path d="m1019 186-16 15 16 15M1083 186l16 15-16 15" stroke="#C8F8F0" stroke-width="4"/>
-      <path d="m1059 180-16 42" stroke="#5EEAD4" stroke-width="4"/>
-      <path d="M998 239H1033M1041 239H1060" stroke="#3A4F69" stroke-width="2"/>
+      <path d="m1153 247-28 26 28 26m82-52 28 26-28 26m-27-43-28 85" stroke="#38BDF8" stroke-width="10" opacity=".25" filter="url(#glow)"/>
+      <path d="m1153 247-28 26 28 26m82-52 28 26-28 26" stroke="#D8F5FF" stroke-width="6"/>
+      <path d="m1208 230-28 85" stroke="#68D4FF" stroke-width="6"/>
     </g>
-    <rect x=".75" y=".75" width="1278.5" height="398.5" rx="27.25" stroke="#263449" stroke-width="1.5"/>
+    <!-- Typography stays motionless for immediate readability at GitHub widths. -->
+    <g font-family="Segoe UI, Arial, sans-serif">
+      <circle class="signal" cx="106" cy="67" r="9" fill="#38BDF8" opacity=".35" filter="url(#glow)"/>
+      <circle cx="106" cy="67" r="4" fill="#6CDEFF"/>
+      <text x="125" y="73" fill="#A0BACE" font-size="17" font-weight="600" letter-spacing="3">JOBAYERHASSAN / GITHUB</text>
+      <text x="94" y="208" fill="#F0F7FF" font-size="118" font-weight="800" letter-spacing="6">JOBAYER</text>
+      <text x="94" y="329" fill="url(#name)" font-size="118" font-weight="800" letter-spacing="6">HOSSEN</text>
+      <text x="102" y="380" fill="#B2C5D9" font-size="20" font-weight="600" letter-spacing="2.3">CSE UNDERGRADUATE · SOFTWARE BUILDER</text>
+      <path d="M102 423H767" stroke="url(#divider)"/>
+      <text x="102" y="472" fill="#6ECFFF" font-family="Consolas, Courier New, monospace" font-size="20" font-weight="700" letter-spacing="2">C / C++ / JAVA</text>
+      <path d="M329 450V478" stroke="#35475D"/>
+      <text x="354" y="471" fill="#B6A6E7" font-size="17" font-weight="600" letter-spacing="1.2">EXPLORING PYTHON &amp; AI</text>
+      <text x="1500" y="72" text-anchor="end" fill="#8CA9C3" font-size="14" font-weight="600" letter-spacing="2.4">DHAKA / BD</text>
+    </g>
+    <rect x=".75" y=".75" width="1598.5" height="538.5" rx="27.25" stroke="url(#frame)" stroke-width="1.5"/>
   </g>
 </svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="82" viewBox="0 0 1000 82" role="img" aria-labelledby="title desc">
+  <title id="title">Code. Learn. Build. Repeat.</title>
+  <desc id="desc">C, C++ and Java. Exploring Python and AI. Learning by building. The rotating lines pause when reduced motion is requested.</desc>
+  <style>
+    text{font-family:Consolas,'Courier New',monospace;font-size:29px;font-weight:600;text-anchor:middle;fill:#38bdf8}
+    .line{opacity:0;animation:line 15s infinite}.a{opacity:1}.b{animation-delay:5s}.c{animation-delay:10s}
+    @keyframes line{0%,28%{opacity:1}31%,100%{opacity:0}}
+    @media(prefers-reduced-motion:reduce){.line{animation:none;opacity:0}.a{opacity:1}}
+  </style>
+  <g>
+    <text class="line a" x="500" y="48">C / C++ / Java — one project at a time.</text>
+    <text class="line b" x="500" y="48">Exploring Python, NLP &amp; AI.</text>
+    <text class="line c" x="500" y="48">Code. Learn. Build. Repeat.</text>
+  </g>
+</svg>
