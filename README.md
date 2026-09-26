@@ -26,8 +26,14 @@ I'm interested in how solid fundamentals become useful software: a graph algorit
 - **Practicing:** Data structures, algorithms and object-oriented design.
 - **Open to:** Student collaborations and practical software projects.
 
-## Tech Stack
-<p> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> </p> <br>
+## My toolkit
+
+| Area | What I'm working with |
+| :--- | :--- |
+| Core languages | **C · C++ · Java** |
+| Expanding into | **Python · JavaScript · React** |
+| Foundations | Object-oriented programming · Data structures · Graph algorithms |
+| Interests | Natural language processing · AI/ML · Practical software design |
 
 ## Selected projects
 
