@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" fill="none" role="img" aria-labelledby="profile-title profile-description">
+  <title id="profile-title">Jobayer Hossen — GitHub profile</title>
+  <desc id="profile-description">Building software. Learning deeply. CSE undergraduate in Dhaka, Bangladesh. A dark navy banner with a teal architectural network illustration.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#243246" stroke-opacity=".42"/>
+    </pattern>
+    <clipPath id="canvas">
+      <rect width="1280" height="400" rx="28"/>
+    </clipPath>
+    <linearGradient id="line" x1="842" y1="0" x2="842" y2="400" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#25354A" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#25354A"/>
+      <stop offset="1" stop-color="#25354A" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#canvas)">
+    <rect width="1280" height="400" fill="#0B1220"/>
+    <rect x="842" width="438" height="400" fill="#0E1728"/>
+    <rect x="842" width="438" height="400" fill="url(#grid)"/>
+    <path d="M842 0V400" stroke="url(#line)"/>
+    <path d="M64 100H110" stroke="#5EEAD4" stroke-width="3" stroke-linecap="round"/>
+
+    <g font-family="Segoe UI, Arial, sans-serif">
+      <text x="64" y="65" fill="#92A4BD" font-size="15" font-weight="600" letter-spacing="3">JOBAYERHASSAN / GITHUB</text>
+      <text x="60" y="178" fill="#F1F5F9" font-size="66" font-weight="700" letter-spacing="-2.3">Jobayer Hossen</text>
+      <text x="64" y="230" fill="#B9C7D9" font-size="28" font-weight="400" letter-spacing="-.3">Building software. Learning deeply.</text>
+
+      <rect x="64" y="301" width="225" height="37" rx="8" fill="#102A2C" stroke="#1D4947"/>
+      <circle cx="82" cy="319.5" r="3" fill="#5EEAD4"/>
+      <text x="96" y="324" fill="#8DEBDC" font-size="12" font-weight="600" letter-spacing="1.4">CSE UNDERGRADUATE</text>
+      <g stroke="#8296B0" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M325 310.5a6 6 0 0 0-6 6c0 4.4 6 10 6 10s6-5.6 6-10a6 6 0 0 0-6-6Z"/>
+        <circle cx="325" cy="316.5" r="1.8"/>
+      </g>
+      <text x="343" y="324" fill="#92A4BD" font-size="12" font-weight="600" letter-spacing="1.6">DHAKA, BANGLADESH</text>
+    </g>
+
+    <!-- A quiet, ordered network around a single code module. -->
+    <g stroke-linecap="round" stroke-linejoin="round">
+      <rect x="913" y="67" width="282" height="266" rx="32" stroke="#263750" stroke-dasharray="3 9"/>
+      <path d="M960 99H1030Q1046 99 1046 115V139M1170 128V188Q1170 200 1158 200H1128M1106 301H1066Q1050 301 1050 285V260M933 272V214Q933 200 947 200H974" stroke="#3B526B" stroke-width="2"/>
+      <path d="M960 99H991M1170 145V167M1092 301H1078M933 250V233" stroke="#5EEAD4" stroke-width="2"/>
+
+      <rect x="924" y="81" width="36" height="36" rx="10" fill="#142D32" stroke="#37615E"/>
+      <path d="M935 99H949M942 92V106" stroke="#5EEAD4" stroke-width="2"/>
+      <rect x="1152" y="92" width="36" height="36" rx="10" fill="#1E2542" stroke="#4A5179"/>
+      <rect x="1164" y="104" width="12" height="12" rx="2" stroke="#A5B4FC" stroke-width="1.8"/>
+      <rect x="1106" y="283" width="36" height="36" rx="10" fill="#142D32" stroke="#37615E"/>
+      <path d="m1117 301 5 5 9-10" stroke="#5EEAD4" stroke-width="2"/>
+      <rect x="915" y="272" width="36" height="36" rx="10" fill="#152238" stroke="#354962"/>
+      <path d="M926 286H940M926 294H936" stroke="#9CB0C8" stroke-width="1.8"/>
+
+      <rect x="974" y="139" width="154" height="122" rx="22" fill="#0B1220" stroke="#38526A" stroke-width="1.5"/>
+      <path d="M998 161H1018" stroke="#5EEAD4" stroke-width="2"/>
+      <circle cx="1106" cy="161" r="2.5" fill="#5EEAD4"/>
+      <path d="m1019 186-16 15 16 15M1083 186l16 15-16 15" stroke="#C8F8F0" stroke-width="4"/>
+      <path d="m1059 180-16 42" stroke="#5EEAD4" stroke-width="4"/>
+      <path d="M998 239H1033M1041 239H1060" stroke="#3A4F69" stroke-width="2"/>
+    </g>
+    <rect x=".75" y=".75" width="1278.5" height="398.5" rx="27.25" stroke="#263449" stroke-width="1.5"/>
+  </g>
+</svg>
