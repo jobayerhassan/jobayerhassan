@@ -1,77 +1,111 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Jobayer Hossen — Building software. Learning deeply. CSE undergraduate in Dhaka, Bangladesh." width="100%">
+  <img src="assets/profile-banner.svg" alt="Jobayer Hossen — CSE undergraduate and software builder, exploring code, algorithms and AI." width="100%">
 </p>
 
 <p align="center">
-  <strong>Computer Science Undergraduate · Daffodil International University</strong><br>
-  Practical projects. Strong foundations. Thoughtful problem solving.
+  <img src="assets/typing.svg" alt="C, C++ and Java • Exploring Python and AI • Learning by building" width="760">
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jobayer-hossen-joy-346b18365">LinkedIn</a> &nbsp; / &nbsp;
-  <a href="mailto:jobayerhassan788@gmail.com">Email me</a> &nbsp; / &nbsp;
-  <a href="https://github.com/jobayerhassan?tab=repositories">Explore my repositories</a>
+  <a href="mailto:jobayerhassan788@gmail.com"><img src="assets/badges/email.svg" alt="Email Jobayer" height="44"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/jobayer-hossen-joy-346b18365"><img src="assets/badges/linkedin.svg" alt="Connect on LinkedIn" height="44"></a>
+  &nbsp;
+  <a href="https://github.com/jobayerhassan?tab=repositories"><img src="assets/badges/github.svg" alt="Explore my GitHub projects" height="44"></a>
+</p>
+
+<p align="center">
+  <strong>Daffodil International University</strong> &nbsp; · &nbsp; Dhaka, Bangladesh<br>
+  <sub>Practical projects. Curious thinking. Progress through code.</sub>
 </p>
 
 ---
 
-## A little about me
+## 👨‍💻 Behind the code
 
-I'm **Jobayer Hossen**, a Computer Science undergraduate based in **Dhaka, Bangladesh**. I build learning projects in C, C++ and Java, and I'm expanding into Python, AI/ML and web development.
+Hi, I'm **Jobayer Hossen** — a Computer Science undergraduate turning classroom fundamentals into practical projects.
 
-I'm interested in how solid fundamentals become useful software: a graph algorithm that helps plan deliveries, an object model that makes a store easier to manage, or a text-processing tool that supports learning.
+- 🎓 Studying **Computer Science & Engineering at DIU**.
+- 🛒 Building **Smart Store**, a Java OOP project for everyday grocery shopping.
+- 🧠 Exploring **Python, NLP and rubric-based answer evaluation**.
+- 🧩 Practicing **data structures, graph algorithms and object-oriented design**.
+- 🤝 Open to **student collaborations and useful software ideas**.
+- 📬 Reach me at **[jobayerhassan788@gmail.com](mailto:jobayerhassan788@gmail.com)**.
 
-- **Building:** Smart Store, a Java OOP project for everyday grocery shopping.
-- **Exploring:** Python applications, NLP and rubric-based answer evaluation.
-- **Practicing:** Data structures, algorithms and object-oriented design.
-- **Open to:** Student collaborations and practical software projects.
+## ⚡ Technical toolkit
 
-## Selected projects
+<p align="center"><strong>Core languages</strong></p>
+<p align="center">
+  <img src="assets/icons/c.svg" alt="C" title="C" width="58" height="58">
+  &nbsp;&nbsp;
+  <img src="assets/icons/cpp.svg" alt="C++" title="C++" width="58" height="58">
+  &nbsp;&nbsp;
+  <img src="assets/icons/java.svg" alt="Java" title="Java" width="58" height="58">
+</p>
+<p align="center"><sub>C &nbsp; · &nbsp; C++ &nbsp; · &nbsp; Java</sub></p>
 
-### 01 &nbsp; [ExamGuard AI](https://github.com/jobayerhassan/ExamGuard-AI)
+<p align="center"><strong>Learning & exploring</strong></p>
+<p align="center">
+  <img src="assets/icons/python.svg" alt="Python — learning" title="Python — learning" width="58" height="58">
+  &nbsp;&nbsp;
+  <img src="assets/icons/javascript.svg" alt="JavaScript — learning" title="JavaScript — learning" width="58" height="58">
+  &nbsp;&nbsp;
+  <img src="assets/icons/react.svg" alt="React — learning" title="React — learning" width="58" height="58">
+</p>
+<p align="center"><sub>Python &nbsp; · &nbsp; JavaScript &nbsp; · &nbsp; React</sub></p>
 
-**Answer evaluation with explainable feedback**<br>
-<sub>PYTHON · STREAMLIT · NLP EXPLORATION</sub>
+<p align="center"><strong>Version control & collaboration</strong></p>
+<p align="center">
+  <img src="assets/icons/git.svg" alt="Git" title="Git" width="58" height="58">
+  &nbsp;&nbsp;
+  <img src="assets/icons/github.svg" alt="GitHub" title="GitHub" width="58" height="58">
+</p>
+<p align="center"><sub>Git &nbsp; · &nbsp; GitHub</sub></p>
 
-A learning prototype exploring subjective-answer evaluation through text similarity, keywords and rubric-based scoring. The project focuses on showing feedback alongside a score.
+## 🚀 Featured work
 
-[Explore the project →](https://github.com/jobayerhassan/ExamGuard-AI#readme)
+### 🧠 [ExamGuard AI](https://github.com/jobayerhassan/ExamGuard-AI)
+**Feedback that explains the score.** A learning prototype exploring subjective-answer evaluation through text similarity, keywords and rubric-based scoring.
 
-### 02 &nbsp; [Delivery Route Planner](https://github.com/jobayerhassan/DeliveryRoutePlanner)
+`Python` `Streamlit` `NLP exploration` &nbsp; [View project ↗](https://github.com/jobayerhassan/ExamGuard-AI#readme)
 
-**Graph algorithms applied to delivery planning**<br>
-<sub>C · BFS · DIJKSTRA · TEAM PROJECT</sub>
+### 🗺️ [Delivery Route Planner](https://github.com/jobayerhassan/DeliveryRoutePlanner)
+**Graph theory meets delivery planning.** A C console team project covering customers, drivers, locations and route planning. My contribution focuses on **delivery and driver management**.
 
-A console-based delivery management project covering customers, drivers and locations, with graph-based route planning and file persistence. My contribution focuses on **delivery and driver management**.
+`C` `BFS` `Dijkstra` `Team project` &nbsp; [View project ↗](https://github.com/jobayerhassan/DeliveryRoutePlanner#readme)
 
-[Explore the project →](https://github.com/jobayerhassan/DeliveryRoutePlanner#readme)
+### 🛒 [Smart Store](https://github.com/jobayerhassan/Smart-Store)
+**Everyday groceries, smarter planning.** A university OOP project in development, with a planned experience connecting shopping, recipes, pantry awareness and budget-conscious choices.
 
-### 03 &nbsp; [Smart Store](https://github.com/jobayerhassan/Smart-Store)
+`Java` `OOP` `In development` &nbsp; [View project ↗](https://github.com/jobayerhassan/Smart-Store#readme)
 
-**A smarter approach to everyday groceries**<br>
-<sub>JAVA · OBJECT-ORIENTED PROGRAMMING · IN DEVELOPMENT</sub>
+## 📊 GitHub at a glance
 
-A university OOP project for a smart super shop. The planned experience connects grocery shopping with recipe ideas, pantry-aware planning and budget-conscious choices.
+<p align="center">
+  <img src="assets/github-stats.svg" alt="My GitHub activity: public repository statistics and contribution streaks when available. Data refreshes daily." width="100%">
+</p>
+<p align="center">
+  <img src="assets/top-languages.svg" alt="Languages in my original public repositories, measured by source-code bytes. Profile assets, forks and archived repositories are excluded." width="100%">
+</p>
 
-[Explore the project →](https://github.com/jobayerhassan/Smart-Store#readme)
+## 🐍 Contributions in motion
 
-## My toolkit
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jobayerhassan/jobayerhassan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jobayerhassan/jobayerhassan/output/github-contribution-grid-snake.svg">
+  <img alt="Animated snake following my GitHub contribution history" src="https://raw.githubusercontent.com/jobayerhassan/jobayerhassan/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
-| Area | What I'm working with |
-| :--- | :--- |
-| Core languages | **C · C++ · Java** |
-| Expanding into | **Python · JavaScript · React** |
-| Foundations | Object-oriented programming · Data structures · Graph algorithms |
-| Interests | Natural language processing · AI/ML · Practical software design |
-
-## Let's build something useful
-
-I'm open to collaborating on student projects in Java, C/C++ or Python, especially where there's a clear problem to solve and something new to learn.
-
-**[Connect on LinkedIn](https://www.linkedin.com/in/jobayer-hossen-joy-346b18365)** &nbsp; · &nbsp; **[Send an email](mailto:jobayerhassan788@gmail.com)**
+<p align="center"><sub>Small steps, written in code. Updated daily from my GitHub activity.</sub></p>
 
 ---
 
 <p align="center">
-  <sub>Learning by building. Improving with every iteration.</sub>
+  <strong>Have a useful idea? Let's build it together.</strong><br>
+  <sub>Always learning. Always making the next version better.</sub>
+</p>
+<p align="center">
+  <a href="mailto:jobayerhassan788@gmail.com"><img src="assets/badges/email.svg" alt="Start a conversation by email" height="44"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/jobayer-hossen-joy-346b18365"><img src="assets/badges/linkedin.svg" alt="Find me on LinkedIn" height="44"></a>
 </p>
