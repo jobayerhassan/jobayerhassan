@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/typing.svg" alt="C, C++ and Java • Exploring Python and AI • Learning by building" width="760">
+  <img src="assets/typing.svg" alt="C, C++ and Java • Exploring AI and ML • Learning by building" width="760">
 </p>
 
 <p align="center">
