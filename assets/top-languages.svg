@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="850" height="357" viewBox="0 0 850 357" role="img" aria-labelledby="title description">
   <title id="title">Languages in my repositories</title>
-  <desc id="description">Top languages by code bytes across 7 public, original, non-archived repositories, excluding the profile repository. C: 69.2 percent; Python: 23.1 percent; HTML: 6.1 percent; Java: 1.7 percent. Language share is not a measure of proficiency. Updated 2026-10-09 06:46:32 UTC.</desc>
+  <desc id="description">Top languages by code bytes across 7 public, original, non-archived repositories, excluding the profile repository. C: 69.2 percent; Python: 23.1 percent; HTML: 6.1 percent; Java: 1.7 percent. Language share is not a measure of proficiency. Updated 2026-10-10 06:24:14 UTC.</desc>
   <rect x=".5" y=".5" width="849" height="356" rx="18" fill="#0d1117" stroke="#30363d"/>
   <path d="M25 1H260" stroke="#38bdf8" stroke-width="2"/>
   <path d="M590 1H825" stroke="#a78bfa" stroke-width="2"/>
@@ -31,5 +31,5 @@
     <path d="M30 274H820" stroke="#21262d"/>
     <text x="30" y="296" fill="#8b949e" font-size="12">Top 4 by code-byte share · 7 eligible repositories · Not a proficiency score</text>
     <text x="30" y="334" fill="#8b949e" font-size="11">Excludes forks, archives and this profile</text>
-    <text x="820" y="334" text-anchor="end" fill="#8b949e" font-size="11">Updated 2026-10-09 06:46:32 UTC</text></g>
+    <text x="820" y="334" text-anchor="end" fill="#8b949e" font-size="11">Updated 2026-10-10 06:24:14 UTC</text></g>
 </svg>
